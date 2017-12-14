@@ -1,0 +1,47 @@
+.wrapper {
+    margin: 0;
+    padding: 0;
+}
+.contents {
+    padding: 15px;
+}
+.panel {
+    margin: 0;
+    border: none;
+}
+.panel-heading {
+    text-align: center;
+}
+.pagination-block {
+    display: flex;
+    justify-content: center;
+}
+.buttons {
+    display: flex;
+    padding: 15px;
+    flex-wrap: wrap;
+}
+.button {
+    display: flex;
+    margin: 0 5px;
+    justify-content: flex-start;
+    outline: none;
+}
+.own-field {
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    background-color: #8080801f;
+    padding: 5px;
+}
+.own-field__input {
+    border-radius: 17px;
+    margin-right: 5px;
+}
+.warning-alert {
+    margin: 15px 0;
+}
+th, td {
+    text-align: center;
+    cursor:pointer;
+}

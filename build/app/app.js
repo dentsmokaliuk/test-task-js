@@ -1,0 +1,1 @@
+var productsListApp = angular.module('productsListApp', ['angularUtils.directives.dirPagination']);
